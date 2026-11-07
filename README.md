@@ -52,6 +52,8 @@ Hi everyone! I'm Azzahara! 🚀
 3. Cari “Shell Command: Install ‘code’ command in PATH”.
 4. Di terminal, cek dengan code --version.
 
-   
+
+
+
 <img width="732" height="207" alt="Screen Shot 2026-11-07 at 21 09 27" src="https://github.com/user-attachments/assets/a881780f-77e4-422b-8399-0ec0219be2a0" />
 
