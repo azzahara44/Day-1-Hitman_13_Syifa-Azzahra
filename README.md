@@ -57,3 +57,7 @@ Hi everyone! I'm Azzahara! 🚀
 
 <img width="732" height="207" alt="Screen Shot 2026-11-07 at 21 09 27" src="https://github.com/user-attachments/assets/a881780f-77e4-422b-8399-0ec0219be2a0" />
 
+
+## 📌 Pendapat pribadi mengenai Day 1 Proyek Workshop
+Menurut saya Day 1 workshop ini seru dan bermanfaat. Saya jadi paham bahwa membuat prompt untuk AI itu ada caranya, yaitu perlu Role, Task, Context, dan Format supaya hasilnya lebih tepat. Saya juga mulai mengenal Git dan GitHub untuk mengelola perubahan proyek, yang ternyata penting walaupun awalnya terasa membingungkan.
+
