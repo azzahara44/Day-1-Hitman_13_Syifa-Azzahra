@@ -59,5 +59,5 @@ Hi everyone! I'm Azzahara! 🚀
 
 
 ## 📌 Pendapat pribadi mengenai Day 1 Proyek Workshop
-Menurut saya Day 1 workshop ini seru dan bermanfaat. Saya jadi paham bahwa membuat prompt untuk AI itu ada caranya, yaitu perlu Role, Task, Context, dan Format supaya hasilnya lebih tepat. Saya juga mulai mengenal Git dan GitHub untuk mengelola perubahan proyek, yang ternyata penting walaupun awalnya terasa membingungkan.
+Menurut saya Day 1 workshop hari ini terasa menyenangkan dan bermanfaat. Saya menampatkan wawasan baru bahwa membuat prompt untuk AI itu memiliki caranya, seperti perlu Role, Task, Context, dan Format supaya hasilnya lebih tepat. Saya juga mulai mengenal Git dan GitHub untuk mengelola perubahan proyek, yang ternyata penting walaupun awalnya terasa membingungkan.
 
